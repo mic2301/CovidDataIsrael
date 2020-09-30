@@ -29,7 +29,14 @@
         "moh_corona_age_and_gender": "קורונה לפי גיל ומגדר",
         "moh_corona_medical_staff": "צוות רפואי קורונה",
         "moh_corona_deceased": "נפטרים",
-        "moh_young_population_weekly": "אוכלוסייה צעירה שבועית"
+        "moh_young_population_weekly": "אוכלוסייה צעירה שבועית",
+        "Male": "זכר",
+        "Female": "נקבה",
+        "City": "ישוב",
+        "Sick Count": "סהכ חולים",
+        "Actual Sick": "חולים מאומתים",
+        "Verified Last7 Days": "מאומתים ב-7 ימים אחרונים",
+        "Test Last7 Days": "נבדקים ב-7 ימים אחרונים"
     },
     "en": {
         "Contact": "Contact",
