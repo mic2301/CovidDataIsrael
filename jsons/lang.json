@@ -17,12 +17,12 @@
         "breatheByAgeAndGenderPublic": "מונשמים לפי גיל ומגדר",
         "severeByAgeAndGenderPublic": "חולים קשה לפי גיל ומגדר",
         "deadByAgeAndGenderPublic": "מתים  לפי גיל ומגדר",
-        "isolatedDoctorsAndNurses": "רופאים ואחיות מבודדים",
+        "isolatedDoctorsAndNurses": "רופאים/ות ואחים/ות בבידוד",
         "contagionDataPerCityPublic": "נתוני הדבקה לפי עיר",
-        "hospitalStatus": "מצב בתי חולים",
+        "hospitalStatus": "סטטוס בתי החולים",
         "doublingRate": "שיעור הכפלות",
         "CalculatedVerified": "מחושב מאומת",
-        "otherHospitalizedStaff": "עובדים מאושפזים אחרים",
+        "otherHospitalizedStaff": "אנשי צוות במקצועות אחרים בבידוד",
         "moh_corona_isolation_per_day": "בידוד קורונה ליום",
         "moh_tested individuals": "מספרי נבדקים",
         "moh_corona_hospitalization": "אשפוז קורונה",
@@ -30,13 +30,21 @@
         "moh_corona_medical_staff": "צוות רפואי קורונה",
         "moh_corona_deceased": "נפטרים",
         "moh_young_population_weekly": "אוכלוסייה צעירה שבועית",
-        "Male": "זכר",
-        "Female": "נקבה",
+        "Male": "גברים",
+        "Female": "נשים",
         "City": "ישוב",
         "Sick Count": "סהכ חולים",
         "Actual Sick": "חולים מאומתים",
         "Verified Last7 Days": "מאומתים ב-7 ימים אחרונים",
-        "Test Last7 Days": "נבדקים ב-7 ימים אחרונים"
+        "Test Last7 Days": "בדיקות ב-7 ימים אחרונים",
+        "section": "קבוצת גיל",
+        "Verified Doctors": "רופאים/ות מאומתים/ות"
+        "Verified Nurses": "אחים/ות מאומתים/ות",
+        "Isolated Nurses": "אחים/ות בבידוד"
+        "Isolated Doctors": "רופאים/ות בבידוד",
+        "Isolated Other Sector": "אנשי צוות במקצועות אחרים בבידוד",
+
+        
     },
     "en": {
         "Contact": "Contact",
